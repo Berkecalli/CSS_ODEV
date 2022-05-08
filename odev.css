@@ -1,0 +1,23 @@
+
+.text-left {
+    text-align: left;
+}
+
+.text-deneme {
+    text-align: end;
+}
+
+
+
+body {
+    
+    font-family: 'Macondo', cursive;
+    text-align: center;
+    background-color:#5F7161
+}
+
+img {
+    width: 200;
+    height: 200;
+}
+
